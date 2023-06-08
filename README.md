@@ -43,4 +43,4 @@ The following libraries were used:
 
 ## Download these required files from Google drive
 The CSV containing the processed tweets, as well as all the model weights can be downloaded from here:
-https://drive.google.com/drive/folders/1Gv66TCkJJaHcPa_RRKh-Ayy54Gj_RahZ
+https://drive.google.com/drive/folders/1Gv66TCkJJaHcPa_RRKh-Ayy54Gj_RahZ?usp=drive_link
